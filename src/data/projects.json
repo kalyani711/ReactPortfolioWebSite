@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Netflix Landing  Page",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a Netflix Landing Page . it is responsive and mobile friendly.",
+    "skills": ["HTML", "CSS", "JS" , "BOOTSTRAP"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/kalyani711/netflix-landing-page"
+  },
+  {
+    "title": "Movie App",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a platform where you can search for movies and get the details of the movie.",
+    "skills": ["HTML", "CSS", "JS", "REACT" , "JSX"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/kalyani711/Movie_App_Using_React_js"
+  },
+  {
+    "title": "Temple-Run Using Hand Gesture",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["python", "OpenCV","PyAutoGUI"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/kalyani711/TempleRun.git"
+  }
+]
